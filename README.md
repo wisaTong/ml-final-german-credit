@@ -3,6 +3,19 @@ Dataset: [Statlog (German Credit Data) Data Set](https://archive.ics.uci.edu/ml/
 
 Final project for Machine learning course for Software and Knowledge Engineering, Kasetsart University
 
+### Prerequisite
+- Python >= 3.6
+- Cuda
+
+install required libraries
+```sh
+pip install -r requirement.txt
+```
+run jupyter notebook
+```sh
+jupyter notebook
+```
+
 -----
 
 ## Preprocessing
